@@ -41,5 +41,5 @@ class DeleteBooking:
             if dl in i:
                 booking.booking_list.remove(i)
             else:
-                pass
+                pass 
     
